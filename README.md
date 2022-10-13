@@ -33,7 +33,7 @@
 
 
 <a href="https://twitter.com/MahtabiShadab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wasimfaiz8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shadabmahtabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasim-faiz-8727881b3" height="30" width="40" /></a
+<a href="https://linkedin.com/in/shadabmahtabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasim-faiz-8727881b3" height="30" width="40" /></a>
 <a href="https://instagram.com/shadab_mahtabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_wasim_faiz" height="30" width="40" /></a>
 
 </p>
