@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Web development ,GSAP , Javascript , UI design**
 
-- 📫 How to reach me **mahtabishadab@gmail.com**
+- 📫 How to reach me **shadabmanpuri@gmail.com**
 
 - ⚡ Fun fact **When I am not working I usually spend my time in kitchen To cook something delicious.🥘🍝**
 
