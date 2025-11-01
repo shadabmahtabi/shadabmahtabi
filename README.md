@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate MERN Web Developer♻️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="Shadab Mahtabi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadabmahtabi&label=Profile%20views&color=0e75b6&style=flat" alt="Shadab Mahtabi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/MahtabiShadab" target="blank"><img src="https://img.shields.io/twitter/follow/MahtabiShadab?logo=twitter&style=for-the-badge" alt="Shadab" /></a> </p>
 
